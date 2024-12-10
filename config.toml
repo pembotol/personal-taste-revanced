@@ -5,14 +5,14 @@ parallel-jobs = 1
 
 # you can use rvmm-config-gen to generate a config
 
-[YouTube]
-enabled = false
-patches-source = "anddea/revanced-patches"
-cli-source = "inotia00/revanced-cli"
-rv-brand = "RVX-anddea"
-apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
-build-mode = "both"
-included-patches = "'MaterialYou'"
+# [YouTube]
+# enabled = false
+# patches-source = "anddea/revanced-patches"
+# cli-source = "inotia00/revanced-cli"
+# rv-brand = "RVX-anddea"
+# apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
+# build-mode = "both"
+# included-patches = "'MaterialYou'"
 
 [Music]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music/"
